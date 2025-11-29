@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessing", "NumberGue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingFromSession", "NumberGuessing2\NumberGuessingFromSession.csproj", "{776865FE-114F-4DFE-B803-8FDC75A7D0EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockCracker", "LockCracker\LockCracker.csproj", "{5E029F28-FB92-4B00-A4A4-4F60DB949BFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{776865FE-114F-4DFE-B803-8FDC75A7D0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{776865FE-114F-4DFE-B803-8FDC75A7D0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{776865FE-114F-4DFE-B803-8FDC75A7D0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E029F28-FB92-4B00-A4A4-4F60DB949BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E029F28-FB92-4B00-A4A4-4F60DB949BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E029F28-FB92-4B00-A4A4-4F60DB949BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E029F28-FB92-4B00-A4A4-4F60DB949BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

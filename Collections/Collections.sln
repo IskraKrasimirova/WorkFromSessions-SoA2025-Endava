@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCompressionUnique", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCompressionFromSession", "ArrayCompressionFromSession\ArrayCompressionFromSession.csproj", "{5E60331C-D460-4E98-89F6-5007C6EF2231}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCompressionGeneric", "ArrayCompressionGeneric\ArrayCompressionGeneric.csproj", "{EDF82D0A-1C09-44DC-97FA-F526EA91C385}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5E60331C-D460-4E98-89F6-5007C6EF2231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E60331C-D460-4E98-89F6-5007C6EF2231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E60331C-D460-4E98-89F6-5007C6EF2231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

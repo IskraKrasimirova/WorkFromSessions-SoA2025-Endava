@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCompressionFromSession
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCompressionGeneric", "ArrayCompressionGeneric\ArrayCompressionGeneric.csproj", "{EDF82D0A-1C09-44DC-97FA-F526EA91C385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArrayFromSession", "RotateArrayFromSession\RotateArrayFromSession.csproj", "{19EC8F3B-6CFA-402E-A3E5-B4D22A736D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray2", "RotateArray2\RotateArray2.csproj", "{1A1D3AA7-4F58-4384-83BD-F2424297A933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray3", "RotateArray3\RotateArray3.csproj", "{A1762D92-3519-4EA4-B04D-51617AB16BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF82D0A-1C09-44DC-97FA-F526EA91C385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EC8F3B-6CFA-402E-A3E5-B4D22A736D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EC8F3B-6CFA-402E-A3E5-B4D22A736D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EC8F3B-6CFA-402E-A3E5-B4D22A736D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EC8F3B-6CFA-402E-A3E5-B4D22A736D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1D3AA7-4F58-4384-83BD-F2424297A933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1D3AA7-4F58-4384-83BD-F2424297A933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1D3AA7-4F58-4384-83BD-F2424297A933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1D3AA7-4F58-4384-83BD-F2424297A933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray2", "RotateArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray3", "RotateArray3\RotateArray3.csproj", "{A1762D92-3519-4EA4-B04D-51617AB16BB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentWords", "MostFrequentWords\MostFrequentWords.csproj", "{ABB7B8F6-892D-457A-B460-0B4165EB1510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1762D92-3519-4EA4-B04D-51617AB16BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB7B8F6-892D-457A-B460-0B4165EB1510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB7B8F6-892D-457A-B460-0B4165EB1510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB7B8F6-892D-457A-B460-0B4165EB1510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB7B8F6-892D-457A-B460-0B4165EB1510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

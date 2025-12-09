@@ -8,18 +8,19 @@
             var initialLength = duplicatedNumbers.Length;
 
             int[] compressed = new int[initialLength];
-            int index = 0;
-            compressed[index++] = duplicatedNumbers[0];
+            compressed[0] = duplicatedNumbers[0];
+            int index = 1;
 
             for (int i = 1; i < initialLength; i++)
             {
                 if (duplicatedNumbers[i] != duplicatedNumbers[i - 1])
                 {
-                    compressed[index++] = duplicatedNumbers[i];
+                    compressed[index] = duplicatedNumbers[i];
+                    index++;
                 }
             }
 
-            // Resize the array to the actual number of non-zero elements at the start, removing the unused portion
+            // Resize the array to the actual number of non-zero elements at the start
             compressed = compressed[..index];
 
             //// Alternatively, we can use Array.Resize

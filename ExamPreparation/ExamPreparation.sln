@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSubstring2", "FindSubst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSubstringWithUserInput", "FindSubstringWithUserInput\FindSubstringWithUserInput.csproj", "{9FC54BF8-139E-4C8A-9FCD-C2A4555E5F87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWords", "ForbiddenWords\ForbiddenWords.csproj", "{977FE340-A370-4050-B39A-AB37915A23C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsWithUserInput", "ForbiddenWordsWithUserInput\ForbiddenWordsWithUserInput.csproj", "{1689888F-7011-4B08-B329-A840157882BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{9FC54BF8-139E-4C8A-9FCD-C2A4555E5F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FC54BF8-139E-4C8A-9FCD-C2A4555E5F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FC54BF8-139E-4C8A-9FCD-C2A4555E5F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977FE340-A370-4050-B39A-AB37915A23C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977FE340-A370-4050-B39A-AB37915A23C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977FE340-A370-4050-B39A-AB37915A23C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977FE340-A370-4050-B39A-AB37915A23C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1689888F-7011-4B08-B329-A840157882BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1689888F-7011-4B08-B329-A840157882BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1689888F-7011-4B08-B329-A840157882BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1689888F-7011-4B08-B329-A840157882BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

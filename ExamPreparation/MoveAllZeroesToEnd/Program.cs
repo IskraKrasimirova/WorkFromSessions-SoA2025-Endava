@@ -26,7 +26,7 @@
             //{
             //    if (numbers[i] != 0)
             //    {
-            //        (numbers[index], numbers[i]) = (numbers[i], numbers[index]);;
+            //        (numbers[index], numbers[i]) = (numbers[i], numbers[index]);
             //        index++;
             //    }
             //}

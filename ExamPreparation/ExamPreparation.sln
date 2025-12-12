@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitNumber2", "FourDig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{C6CE02E9-6CDE-4251-829B-842145AD5DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionOfElement", "PositionOfElement\PositionOfElement.csproj", "{3D9485D8-BAAE-4629-A6BE-3C00DF962316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C6CE02E9-6CDE-4251-829B-842145AD5DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6CE02E9-6CDE-4251-829B-842145AD5DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6CE02E9-6CDE-4251-829B-842145AD5DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9485D8-BAAE-4629-A6BE-3C00DF962316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9485D8-BAAE-4629-A6BE-3C00DF962316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9485D8-BAAE-4629-A6BE-3C00DF962316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9485D8-BAAE-4629-A6BE-3C00DF962316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

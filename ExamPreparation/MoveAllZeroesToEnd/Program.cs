@@ -26,6 +26,11 @@
             //{
             //    if (numbers[i] != 0)
             //    {
+            //        //// Swap elements, classic
+            //        //var temp = numbers[index];
+            //        //numbers[index] = numbers[i];
+            //        //numbers[i] = temp;
+                    
             //        (numbers[index], numbers[i]) = (numbers[i], numbers[index]);
             //        index++;
             //    }

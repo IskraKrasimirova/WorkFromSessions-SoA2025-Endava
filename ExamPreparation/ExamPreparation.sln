@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumberPyramid", "PrintNumberPyramid\PrintNumberPyramid.csproj", "{A9ED8665-E946-4942-981F-4FA1C893BD87}"
 EndProject
@@ -32,6 +32,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWords", "ForbiddenWords\ForbiddenWords.csproj", "{977FE340-A370-4050-B39A-AB37915A23C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForbiddenWordsWithUserInput", "ForbiddenWordsWithUserInput\ForbiddenWordsWithUserInput.csproj", "{1689888F-7011-4B08-B329-A840157882BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAllZeroesToEndLINQ", "MoveAllZeroesToEndLINQ\MoveAllZeroesToEndLINQ.csproj", "{FA452BB8-8B74-45B3-833F-17DF4212C4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAllZeroesToEndWithList", "MoveAllZeroesToEndWithList\MoveAllZeroesToEndWithList.csproj", "{177469D7-7708-4022-938B-AFD487F9BAC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{1689888F-7011-4B08-B329-A840157882BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1689888F-7011-4B08-B329-A840157882BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1689888F-7011-4B08-B329-A840157882BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA452BB8-8B74-45B3-833F-17DF4212C4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA452BB8-8B74-45B3-833F-17DF4212C4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA452BB8-8B74-45B3-833F-17DF4212C4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA452BB8-8B74-45B3-833F-17DF4212C4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177469D7-7708-4022-938B-AFD487F9BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177469D7-7708-4022-938B-AFD487F9BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177469D7-7708-4022-938B-AFD487F9BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177469D7-7708-4022-938B-AFD487F9BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

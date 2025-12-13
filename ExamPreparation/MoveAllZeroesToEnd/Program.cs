@@ -15,8 +15,12 @@
             {
                 if (numbers[i] != 0)
                 {
-                    numbers[index] = numbers[i];
-                    numbers[i] = 0;
+                    if (i != index)
+                    {
+                        numbers[index] = numbers[i];
+                        numbers[i] = 0;
+                    }
+
                     index++;
                 }
             }
@@ -26,12 +30,16 @@
             //{
             //    if (numbers[i] != 0)
             //    {
-            //        //// Swap elements, classic
-            //        //var temp = numbers[index];
-            //        //numbers[index] = numbers[i];
-            //        //numbers[i] = temp;
-                    
-            //        (numbers[index], numbers[i]) = (numbers[i], numbers[index]);
+            //        if (i != index)
+            //        {
+            //            //// Swap elements, classic
+            //            //var temp = numbers[index];
+            //            //numbers[index] = numbers[i];
+            //            //numbers[i] = temp;
+
+            //            (numbers[index], numbers[i]) = (numbers[i], numbers[index]);
+            //        }
+
             //        index++;
             //    }
             //}
